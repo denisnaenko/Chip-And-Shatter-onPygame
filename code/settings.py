@@ -1,0 +1,10 @@
+import pygame
+from os.path import join
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 1280, 720
+TILE_SIZE = 16
+ANIMATION_SPEED = 6
+
+ENEMY_COUNT = 3
+MIN_PLATFORMS = 100
+MIN_ENEMIES = 5
